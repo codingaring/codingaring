@@ -19,5 +19,5 @@
 <br />
 
 ## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sksms2104@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sksms2104@naver.com)
 [![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat-square&logo=blogger&logoColor=white)](https://codingaring.tistory.com/)
