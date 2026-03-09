@@ -43,7 +43,6 @@
         <img src="https://img.shields.io/badge/Adobe_After_Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white"/>
         <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white"/>
         <br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
       </div>
     </td>
   </tr>
